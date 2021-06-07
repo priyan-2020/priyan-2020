@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently focusing on Data Science... 
 -  ♀️ Pronouns: She/Her
 - 🎵 Hobbies: Singing (I am a Professional Singer), Reading books & Drawing
-- 🌏 Fact: I speak 3 languages ( English, Hindi, French) 🤪
+- 🌏 Fact: I speak 4 languages ( Bengali, English, Hindi, French) 🤪
  <br/> <br/>
 ### Connect With Me:
 [<img align="left" alt="LinkedIn" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
