@@ -1,5 +1,6 @@
 
-### Hi there, I am Priyanka 👋
+### Hi there, I am Priyanka 👋   
+![](https://komarev.com/ghpvc/?username=priyan-2020&color=blueviolet)
 
 <!--
 **priyan-2020/priyan-2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +14,7 @@ Here are some ideas to get you started: -->
 - 🎵 Hobbies: Singing (I am a Professional Singer), Reading books & Drawing
 - 🌏 Fact: I speak 4 languages ( Bengali, English, Hindi, French) 🤪
  <br/> <br/>
+ 
 ### Connect With Me:
 [<img align="left" alt="LinkedIn" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
