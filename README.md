@@ -1,5 +1,5 @@
 
-### Hi there, I am Priyanka  <img src="https://github.com/priyan-2020/priyan-2020/blob/main/Hi.gif" width="25px"> !
+### Hi there, I am Priyanka  <img src="https://github.com/priyan-2020/priyan-2020/blob/main/Hi.gif" width="22px"> !
 ![](https://komarev.com/ghpvc/?username=priyan-2020&color=blueviolet)
 
 <!--
@@ -46,12 +46,17 @@ Here are some ideas to get you started: -->
   <img  src="https://github-readme-stats.vercel.app/api?username=priyan-2020&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=priyan-2020&theme=dark" width="45%" >
 
-</details>
+</details> 
+
+<img src="https://github.com/priyan-2020/priyan-2020/blob/main/git.PNG" width="420px" height="270px" align="right" />
+<br/> <br/>
 
 <details>
-  <summary>:eyes: Most Used Languages</summary>
-  <img align="left" alt="Priyanka's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyan-2020" />
+  <summary>:eyes: Most Used Languages</summary> <br/>
+  <img align="left" alt="Priyanka's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyan-2020&theme=dark" />
   </details>
+  
+  
   
 
 [youtube]: https://www.youtube.com/channel/UCaQ0YAk-x5tpYN3ntW-Y6dw
