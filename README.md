@@ -1,5 +1,5 @@
 
-### Hi there, I am Priyanka 👋   
+### Hi there, I am Priyanka  <img src="https://github.com/priyan-2020/priyan-2020/blob/main/Hi.gif" width="25px"> !
 ![](https://komarev.com/ghpvc/?username=priyan-2020&color=blueviolet)
 
 <!--
@@ -41,9 +41,10 @@ Here are some ideas to get you started: -->
 <br />
 <br/>
 <details>
-  <summary>:fast_forward: GitHub Stats</summary>
+  <summary> :trophy: Github Status </summary> </br>
 
-  <img align="left" alt="Priyanka's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=priyan-2020&show_icons=true&hide_border=true" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=priyan-2020&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=priyan-2020&theme=dark" width="45%" >
 
 </details>
 
