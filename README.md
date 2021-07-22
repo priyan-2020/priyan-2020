@@ -47,13 +47,12 @@ Here are some ideas to get you started: -->
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=priyan-2020&theme=dark" width="45%" >
 
 </details> 
-
-<img src="https://github.com/priyan-2020/priyan-2020/blob/main/git.PNG" width="420px" height="270px" align="right" />
-<br/> <br/>
+<br>
+<img src="https://github.com/priyan-2020/priyan-2020/blob/main/git.PNG" width="470px" height="280px" align="right" />
 
 <details>
   <summary>:eyes: Most Used Languages</summary> <br/>
-  <img align="left" alt="Priyanka's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyan-2020&theme=dark" />
+  <img align="left" alt="Priyanka's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyan-2020&theme=dark" width="30%" />
   </details>
   
   
