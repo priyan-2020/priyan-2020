@@ -59,7 +59,7 @@ Here are some ideas to get you started: -->
   
 
 [youtube]: https://www.youtube.com/channel/UCaQ0YAk-x5tpYN3ntW-Y6dw
-[linkedin]: https://www.linkedin.com/in/priyanka-roy-23591b1b1/
+[linkedin]: https://www.linkedin.com/in/priyankaroy07/
 [Datacamp]: https://www.datacamp.com/profile/iampriyankaroy
 [Cf]: https://codeforces.com/profile/priyanka_98
 [C_]: https://www.codecademy.com/profiles/Priyan_21
