@@ -8,11 +8,12 @@
 Here are some ideas to get you started: -->
 <img align="right" alt="Intro" width="480px" height="320px" src="https://user-images.githubusercontent.com/69049082/120998681-1ffd6500-c7aa-11eb-8ec3-b67e28250330.gif" />
 
-- 🔭 I’m currently a Student...
+- 🔭 I’m a Student...
 - 🌱 I’m currently focusing on Data Science... 
 -  ♀️ Pronouns: She/Her
 - 🎵 Hobbies: Singing (I am a Professional Singer), Reading books & Drawing
-- 🌏 Fact: I speak 4 languages ( Bengali, English, Hindi, French) 🤪
+- 🌏 Fact: I speak 4 languages ( Bengali, English, Hindi, French) 
+- 🤪 Fact: Though I'm a CSE student, am not boring at all 😉
  <br/> <br/>
  
 ### Connect With Me:
