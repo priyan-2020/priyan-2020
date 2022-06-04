@@ -1,5 +1,5 @@
 
-### Hi there, I am Priyanka  <img src="https://github.com/priyan-2020/priyan-2020/blob/main/Hi.gif" width="22px"> !
+### Hi there, I am Priyanka!
 ![](https://komarev.com/ghpvc/?username=priyan-2020&color=blueviolet)
 
 <!--
