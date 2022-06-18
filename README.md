@@ -1,9 +1,9 @@
 
-### Hi there, I am Priyanka!
+### Hi there, I am Priyanka! <img src="https://github.com/roypriyanka7/roypriyanka7/blob/main/Hi.gif" width="2%">
 ![](https://komarev.com/ghpvc/?username=priyan-2020&color=blueviolet)
 
 <!--
-**priyan-2020/priyan-2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**roypriyanka7/roypriyanka7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
 <img align="right" alt="Intro" width="480px" height="320px" src="https://user-images.githubusercontent.com/69049082/120998681-1ffd6500-c7aa-11eb-8ec3-b67e28250330.gif" />
@@ -44,16 +44,16 @@ Here are some ideas to get you started: -->
 <details>
   <summary> :trophy: Github Status </summary> </br>
 
-  <img  src="https://github-readme-stats.vercel.app/api?username=priyan-2020&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=priyan-2020&theme=dark" width="45%" >
+  <img  src="https://github-readme-stats.vercel.app/api?username=roypriyanka7&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=roypriyanka7&theme=dark" width="45%" >
 
 </details> 
 <br>
-<img src="https://github.com/priyan-2020/priyan-2020/blob/main/git.PNG" width="470px" height="280px" align="right" />
+<img src="https://github.com/roypriyanka7/roypriyanka7/blob/main/git.PNG" width="470px" height="280px" align="right" />
 
 <details>
   <summary>:eyes: Most Used Languages</summary> <br/>
-  <img align="left" alt="Priyanka's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyan-2020&theme=dark" width="30%" />
+  <img align="left" alt="Priyanka's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roypriyanka7&theme=dark" width="30%" />
   </details>
   
   
