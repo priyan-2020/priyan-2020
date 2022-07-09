@@ -1,12 +1,23 @@
-
-### Hi there, I am Priyanka! <img src="https://github.com/roypriyanka7/roypriyanka7/blob/main/Hi.gif" width="2%">
-![](https://komarev.com/ghpvc/?username=priyan-2020&color=blueviolet)
-
 <!--
 **roypriyanka7/roypriyanka7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-<img align="right" alt="Intro" width="480px" height="320px" src="https://user-images.githubusercontent.com/69049082/120998681-1ffd6500-c7aa-11eb-8ec3-b67e28250330.gif" />
+
+## Hi there, I am Priyanka! <img src="https://github.com/roypriyanka7/roypriyanka7/blob/main/Hi.gif" width="2%"> ![views](https://komarev.com/ghpvc/?username=priyan-2020&color=blueviolet)
+
+<div>
+  <summary> :trophy: Roy's Github Status </summary> </br>
+  <img  width="32%" align="left" alt="Priyanka's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roypriyanka7&layout=compact&theme=vision-friendly-dark"/>
+  <div align="right">
+  <img  src="https://github-readme-stats.vercel.app/api?username=roypriyanka7&show_icons=true&hide_border=true&theme=vision-friendly-dark" width="32%" align="right" >
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=roypriyanka7&theme=vision-friendly-dark" width="32%" >
+  </div>
+</div> 
+<br/>
+
+<img align="right" alt="Intro" height="280px" src="https://user-images.githubusercontent.com/69049082/120998681-1ffd6500-c7aa-11eb-8ec3-b67e28250330.gif" />
+
+### About Me:
 
 - 🔭 I’m a Student...
 - 🌱 I’m currently focusing on Data Science... 
@@ -14,50 +25,35 @@ Here are some ideas to get you started: -->
 - 🎵 Hobbies: Singing (I am a Professional Singer), Reading books & Drawing
 - 🌏 Fact: I speak 4 languages ( Bengali, English, Hindi, French) 
 - 🤪 Fact: Though I'm a CSE student, am not boring at all 😉
- <br/> <br/>
- 
+
+<br/>
+
 ### Connect With Me:
-[<img align="left" alt="LinkedIn" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="36px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/icons/linkedin.png" />][linkedin]
 
-[<img align="left" alt="DataCamp" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/datacamp.svg" />][Datacamp]
+[<img align="left" alt="DataCamp" width="38px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/icons/datacamp.png" />][Datacamp]
 
-[<img align="left" alt="YouTube" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][youtube]
+[<img align="left" alt="YouTube" width="40px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/icons/youtube.png" />][youtube]
 
-[<img align="left" alt="YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codeforces.svg" />][Cf]
+[<img align="left" alt="CodeForces" width="36px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/icons/cf.png" />][Cf]
 
-<br/> <br/>
-
+<br/>  <br/>
 
 ### Languages and Tools:
-<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg" />
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/androidstudio.svg" />
+<img align="left" alt="HTML" width="40px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/icons/html.png" />
+<img align="left" alt="CSS" width="40px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/icons/css.png" />
+<img align="left" alt="C" width="40px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/icons/c.png" />
+<img align="left" alt="C++" width="40px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/icons/cpp.png" />
+<img align="left" alt="Java" width="40px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/icons/java.png" />
+<img align="left" alt="python" width="40px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/icons/python.png" />
+<img align="left" alt="SQL" width="40px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/icons/sql.png" />
+<img align="left" alt="Flutter" width="40px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/icons/flutter.png" />
+<img align="left" alt="Idea" width="40px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/icons/idea.png" />
+<img align="left" alt="Android_Studio" width="40px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/icons/ad_studio.png" />
+<img align="left" alt="VS_Code" width="40px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/icons/vs_code.png" />
+<img align="left" alt="Jupyter" width="40px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/icons/notebook.png" />
 
-<br />
-<br />
-<br/>
-<details>
-  <summary> :trophy: Github Status </summary> </br>
-
-  <img  src="https://github-readme-stats.vercel.app/api?username=roypriyanka7&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=roypriyanka7&theme=dark" width="45%" >
-
-</details> 
-<br>
-<img src="https://github.com/roypriyanka7/roypriyanka7/blob/main/git.PNG" width="470px" height="280px" align="right" />
-
-<details>
-  <summary>:eyes: Most Used Languages</summary> <br/>
-  <img align="left" alt="Priyanka's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roypriyanka7&theme=dark" width="30%" />
-  </details>
-  
-  
-  
+<br/>  <br/>
 
 [youtube]: https://www.youtube.com/channel/UCaQ0YAk-x5tpYN3ntW-Y6dw
 [linkedin]: https://www.linkedin.com/in/priyankaroy07/
