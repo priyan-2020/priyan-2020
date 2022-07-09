@@ -7,10 +7,10 @@ Here are some ideas to get you started: -->
 
 <div>
   <summary> :trophy: Roy's Github Status </summary> </br>
-  <img  width="30%" align="left" alt="Priyanka's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roypriyanka7&layout=compact&theme=vision-friendly-dark"/>
+  <img  width="31%" align="left" alt="Priyanka's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roypriyanka7&layout=compact&theme=vision-friendly-dark"/>
   <div align="right">
-  <img  src="https://github-readme-stats.vercel.app/api?username=roypriyanka7&show_icons=true&hide_border=true&theme=vision-friendly-dark" width="30%" align="right" >
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=roypriyanka7&theme=vision-friendly-dark" width="30%" >
+  <img  src="https://github-readme-stats.vercel.app/api?username=roypriyanka7&show_icons=true&hide_border=true&theme=vision-friendly-dark" width="31%" align="right" >
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=roypriyanka7&theme=vision-friendly-dark" width="31%" >
   </div>
 </div> 
 <br/>
