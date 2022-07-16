@@ -3,32 +3,33 @@
 
 Here are some ideas to get you started: -->
 
-## Hi there, I am Priyanka! <img src="https://github.com/roypriyanka7/roypriyanka7/blob/main/Hi.gif" width="2%"> ![views](https://komarev.com/ghpvc/?username=priyan-2020&color=blueviolet)
-
-<div>
-  <summary> :trophy: Roy's Github Status </summary> </br>
-  <img  width="31%" align="left" alt="Priyanka's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roypriyanka7&layout=compact&theme=vision-friendly-dark"/>
-  <div align="right">
-  <img  src="https://github-readme-stats.vercel.app/api?username=roypriyanka7&show_icons=true&hide_border=true&theme=vision-friendly-dark" width="31%" align="right" >
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=roypriyanka7&theme=vision-friendly-dark" width="31%" >
-  </div>
-</div> 
+## Hi there, I am Priyanka! <img src="https://github.com/roypriyanka7/roypriyanka7/blob/main/Hi.gif" width="16%"> ![views](https://komarev.com/ghpvc/?username=priyan-2020&color=blueviolet)
+  
+  <p align="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=roypriyanka7&show_icons=true&hide_border=false&theme=vision-friendly-dark&count_private=true&include_all_commits=true" width="45%">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roypriyanka7&theme=vision-friendly-dark" width="45%" >
+  </p>
+  
 <br/>
 
-<img align="right" alt="Intro" height="280px" src="https://user-images.githubusercontent.com/69049082/120998681-1ffd6500-c7aa-11eb-8ec3-b67e28250330.gif" />
+<img align="right" alt="Intro" height="280px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/intro.gif" />
 
-### About Me:
+### 👩‍💻 About Me:
 
-- 🔭 I’m a Student...
-- 🌱 I’m currently focusing on Data Science... 
+- 📖 I’m a Student and mainly focusing on ML
 -  ♀️ Pronouns: She/Her
-- 🎵 Hobbies: Singing (I am a Professional Singer), Reading books & Drawing
-- 🌏 Fact: I speak 4 languages ( Bengali, English, Hindi, French) 
-- 🤪 Fact: Though I'm a CSE student, am not boring at all 😉
+- 🎵 Hobbies: Singing, Travelling & Drawing
+- 🎙️ I am a Professional Singer
 
 <br/>
 
-### Connect With Me:
+<p>
+  <img width="380px"alt="Priyanka's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roypriyanka7&layout=compact&theme=vision-friendly-dark"/> </p>
+  
+  <br/> 
+
+### 🔎 Connect With Me:
 [<img align="left" alt="LinkedIn" width="36px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/icons/linkedin.png" />][linkedin]
 
 [<img align="left" alt="DataCamp" width="38px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/icons/datacamp.png" />][Datacamp]
@@ -39,7 +40,7 @@ Here are some ideas to get you started: -->
 
 <br/>  <br/>
 
-### Languages and Tools:
+### 🪄 Languages and Tools:
 <img align="left" alt="HTML" width="40px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/icons/html.png" />
 <img align="left" alt="CSS" width="40px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/icons/css.png" />
 <img align="left" alt="C" width="40px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/icons/c.png" />
@@ -55,9 +56,20 @@ Here are some ideas to get you started: -->
 
 <br/>  <br/>
 
+
+### 🏆 Github Profile Trophies:
+<p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=roypriyanka7&column=8&theme=algolia&no-frame=true&margin-w=15" alt="roypriyanka7"/>
+</a> </p>
+
+<br/>  <br/>
+
 [youtube]: https://www.youtube.com/channel/UCaQ0YAk-x5tpYN3ntW-Y6dw
 [linkedin]: https://www.linkedin.com/in/priyankaroy07/
 [Datacamp]: https://www.datacamp.com/profile/iampriyankaroy
 [Cf]: https://codeforces.com/profile/priyanka_98
 [C_]: https://www.codecademy.com/profiles/Priyan_21
+
+
+
 
