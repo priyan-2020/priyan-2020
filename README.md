@@ -11,6 +11,10 @@ Here are some ideas to get you started: -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=roypriyanka7&theme=vision-friendly-dark" width="45%" >
   </p>
   
+  <p align="center" >
+  <img width="520px"alt="Priyanka's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roypriyanka7&layout=compact&theme=vision-friendly-dark"/> </p>
+  
+  
 <br/>
 
 <img align="right" alt="Intro" height="280px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/intro.gif" />
@@ -22,12 +26,7 @@ Here are some ideas to get you started: -->
 - 🎵 Hobbies: Singing, Travelling & Drawing
 - 🎙️ I am a Professional Singer
 
-<br/> <br/>
-
-<p align="center" >
-  <img width="380px"alt="Priyanka's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roypriyanka7&layout=compact&theme=vision-friendly-dark"/> </p>
-  
-  <br/> 
+<br/> <br/> 
 
 ### 🔎 Connect With Me:
 [<img align="left" alt="LinkedIn" width="36px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/icons/linkedin.png" />][linkedin]
