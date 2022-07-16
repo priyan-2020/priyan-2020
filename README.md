@@ -22,9 +22,9 @@ Here are some ideas to get you started: -->
 - 🎵 Hobbies: Singing, Travelling & Drawing
 - 🎙️ I am a Professional Singer
 
-<br/>
+<br/> <br/>
 
-<p>
+<p align="center" >
   <img width="380px"alt="Priyanka's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roypriyanka7&layout=compact&theme=vision-friendly-dark"/> </p>
   
   <br/> 
