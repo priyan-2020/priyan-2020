@@ -12,9 +12,9 @@ Here are some ideas to get you started: -->
   </p>
   
   <p align="center">
-  <img width="340px"alt="Priyanka's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roypriyanka7&theme=vision-friendly-dark&hide_border=true"/> 
+  <img width="320px"alt="Priyanka's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roypriyanka7&theme=vision-friendly-dark&hide_border=true"/> 
   
-  <img align="right" alt="Intro" height="320px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/intro.gif" />
+  <img alt="Intro" height="300px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/intro.gif" />
   </p>
   
   
