@@ -6,18 +6,20 @@ Here are some ideas to get you started: -->
 ## Hi there, I am Priyanka! <img src="https://github.com/roypriyanka7/roypriyanka7/blob/main/Hi.gif" width="16%"> ![views](https://komarev.com/ghpvc/?username=priyan-2020&color=blueviolet)
   
   <p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=roypriyanka7&show_icons=true&hide_border=false&theme=vision-friendly-dark&count_private=true&include_all_commits=true" width="45%">
+  <img  src="https://github-readme-stats.vercel.app/api?username=roypriyanka7&show_icons=true&hide_border=true&theme=vision-friendly-dark&count_private=true&include_all_commits=true" width="45%">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roypriyanka7&theme=vision-friendly-dark" width="45%" >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roypriyanka7&theme=vision-friendly-dark&hide_border=true" width="45%" >
   </p>
   
-  <p align="center" >
-  <img width="480px"alt="Priyanka's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roypriyanka7&layout=compact&theme=vision-friendly-dark"/> </p>
+  <p align="center">
+  <img width="340px"alt="Priyanka's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roypriyanka7&theme=vision-friendly-dark&hide_border=true"/> 
+  
+  <img align="right" alt="Intro" height="320px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/intro.gif" />
+  </p>
   
   
 <br/>
 
-<img align="right" alt="Intro" height="280px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/intro.gif" />
 
 ### 👩‍💻 About Me:
 
