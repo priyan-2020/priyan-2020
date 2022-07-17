@@ -3,7 +3,9 @@
 
 Here are some ideas to get you started: -->
 
-## Hi there, I am Priyanka! <img src="https://github.com/roypriyanka7/roypriyanka7/blob/main/Hi.gif" width="16%"> ![views](https://komarev.com/ghpvc/?username=priyan-2020&color=blueviolet)
+## Hi there, I am Priyanka! <img src="https://github.com/roypriyanka7/roypriyanka7/blob/main/Hi.gif" width="16%"> 
+
+![views](https://komarev.com/ghpvc/?username=priyan-2020&color=blueviolet)
   
   <p align="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=roypriyanka7&show_icons=true&hide_border=true&theme=vision-friendly-dark&count_private=true&include_all_commits=true" width="45%">
@@ -12,9 +14,9 @@ Here are some ideas to get you started: -->
   </p>
   
   <p align="center">
-  <img width="320px"alt="Priyanka's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roypriyanka7&theme=vision-friendly-dark&hide_border=true"/> 
+  <img width="280px"alt="Priyanka's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roypriyanka7&theme=vision-friendly-dark&hide_border=true"/> 
   
-  <img alt="Intro" height="300px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/intro.gif" />
+  <img alt="Intro" height="260px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/intro.gif" />
   </p>
   
   
