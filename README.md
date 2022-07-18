@@ -30,7 +30,7 @@ Here are some ideas to get you started: -->
 - 🎵 Hobbies: Singing, Travelling & Drawing
 - 🎙️ I am a Professional Singer
 
-<br/>
+<br/> 
 
 ### 🔎 Connect With Me:
 [<img align="left" alt="LinkedIn" width="36px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/icons/linkedin.png" />][linkedin]
@@ -41,7 +41,7 @@ Here are some ideas to get you started: -->
 
 [<img align="left" alt="CodeForces" width="36px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/icons/cf.png" />][Cf]
 
-<br/>  <br/>
+<br/>  <br/> <br/>
 
 ### 🪄 Languages and Tools:
 <img align="left" alt="HTML" width="40px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/icons/html.png" />
@@ -57,7 +57,7 @@ Here are some ideas to get you started: -->
 <img align="left" alt="VS_Code" width="40px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/icons/vs_code.png" />
 <img align="left" alt="Jupyter" width="40px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/icons/notebook.png" />
 
-<br/>  <br/>
+<br/>  <br/> <br/>
 
 
 ### 🏆 Github Profile Trophies:
