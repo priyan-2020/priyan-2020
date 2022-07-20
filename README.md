@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started: -->
 
-## Hi there, I am Priyanka! <img src="https://github.com/roypriyanka7/roypriyanka7/blob/main/Hi.gif" width="16%"> 
+## Hi there, I am Priyanka! :wave:
 
 ![views](https://komarev.com/ghpvc/?username=priyan-2020&color=blueviolet)
   
