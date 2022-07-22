@@ -8,15 +8,15 @@ Here are some ideas to get you started: -->
 ![views](https://komarev.com/ghpvc/?username=priyan-2020&color=blueviolet)
   
   <p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=roypriyanka7&show_icons=true&hide_border=true&theme=vision-friendly-dark&count_private=true&include_all_commits=true" width="45%">
+  <img  src="https://github-readme-stats.vercel.app/api?username=roypriyanka7&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="45%">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roypriyanka7&theme=vision-friendly-dark&hide_border=true" width="45%" >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roypriyanka7&hide_border=true" width="45%" >
   </p>
   
   <p align="center">
-  <img width="280px"alt="Priyanka's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roypriyanka7&theme=vision-friendly-dark&hide_border=true"/> 
-  
-  <img alt="Intro" height="260px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/intro.gif" />
+  <img width="420px"alt="Priyanka's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roypriyanka7&hide_border=true&layout=compact"/> 
+
+  <img alt="Intro" height="200px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/intro.gif" />
   </p>
   
   
@@ -41,7 +41,9 @@ Here are some ideas to get you started: -->
 
 [<img align="left" alt="CodeForces" width="36px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/icons/cf.png" />][Cf]
 
-<br/>  <br/> <br/>
+<br/>
+<br/> 
+<br/>
 
 ### 🪄 Languages and Tools:
 <img align="left" alt="HTML" width="40px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/icons/html.png" />
@@ -57,7 +59,9 @@ Here are some ideas to get you started: -->
 <img align="left" alt="VS_Code" width="40px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/icons/vs_code.png" />
 <img align="left" alt="Jupyter" width="40px" src="https://github.com/roypriyanka7/roypriyanka7/blob/main/icons/notebook.png" />
 
-<br/>  <br/> <br/>
+<br/>  
+<br/> 
+<br/>
 
 
 ### 🏆 Github Profile Trophies:
